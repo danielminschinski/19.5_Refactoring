@@ -30,7 +30,7 @@
     "babel-cli": "^6.26.0",
     "babel-preset-latest": "^6.24.1",
     "babel-standalone": "^6.26.0",
-    "browser-sync": "^2.26.3",
+    "browser-sync": "^2.27.10",
     "checker": "^0.5.2",
     "globstar": "^1.0.0",
     "http-server": "^0.11.1",
